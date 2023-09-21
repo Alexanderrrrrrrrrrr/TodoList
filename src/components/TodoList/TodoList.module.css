@@ -1,0 +1,16 @@
+.listItems{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: 5px;
+}
+
+.close {
+    color: gray;
+    text-decoration:line-through ;
+}
+.listItemsBtn{
+    background: #009999;
+    color: #fff;
+    border-radius: 6px;
+}

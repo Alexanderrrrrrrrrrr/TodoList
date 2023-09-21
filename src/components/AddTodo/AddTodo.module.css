@@ -1,0 +1,17 @@
+.addTodoForm {
+    display: flex;
+    flex: 1;
+    margin-top: 24px;
+    justify-content: space-between;
+}
+
+.addTodoInput{
+    height: 20px;
+    width: 100%;
+}
+
+.addTodoBtn{
+    background: #009999;
+    color: #fff;
+    border-radius: 6px;
+}
